@@ -1,9 +1,11 @@
 # 🤖 Hand Gesture Recognition System
 
-Deep Learning project for real-time hand gesture classification using CNN and computer vision.
+This project aims to build a Deep Learning model that recognizes hand gestures in real time using computer vision and CNNs.
 
-## Project Structure
-- **data/** → Dataset (filtered & augmented images)
-- **src/** → Python scripts for preprocessing, augmentation, and training
-- **models/** → Trained model files
-- **reports/** → Weekly reports & final documentation
+## 📂 Project Structure
+- **data/** → contains dataset and annotations
+- **src/** → preprocessing, filtering, and augmentation scripts
+- **reports/** → weekly reports and documentation
+- **models/** → (to be added later)
+- **requirements.txt** → project dependencies
+- **.gitignore** → excluded large files and cache

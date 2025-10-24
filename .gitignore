@@ -1,10 +1,11 @@
-# Ignore dataset folders (too large)
+# Ignore big data folders
 data/sign_data/filtered/
 data/sign_data/augmented/
 data/sign_data/processed/
 data/sign_data/cleaned_grabcut/
 
-# Ignore system files
+# Ignore cache and temporary files
 __pycache__/
 *.pyc
+*.log
 .DS_Store
