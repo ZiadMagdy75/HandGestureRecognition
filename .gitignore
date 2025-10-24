@@ -1,0 +1,10 @@
+# Ignore dataset folders (too large)
+data/sign_data/filtered/
+data/sign_data/augmented/
+data/sign_data/processed/
+data/sign_data/cleaned_grabcut/
+
+# Ignore system files
+__pycache__/
+*.pyc
+.DS_Store
